@@ -9,7 +9,7 @@ The 3D medical images segmentation code of this paper is available [here].
 
 ### Installation
 
-Please refer to [get_started.md](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/get_started.md#installation) for installation and dataset preparation.
+Please refer to [Get Started](https://github.com/open-mmlab/mmsegmentation/blob/main/docs/en/overview.md) for installation and dataset preparation.
 
 You can find the pretrained models on the [Swin repo](https://github.com/microsoft/Swin-Transformer)
 
